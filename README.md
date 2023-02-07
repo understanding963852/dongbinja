@@ -3,6 +3,9 @@
 
  수정되었습니다
 
+## 깃허브레 push 하기
+* PS C:\Users\user\D\dongbonja> git remote add origin https://github.com/understanding963852/dongbinja.git
+* PS C:\Users\user\D\dongbonja> git push --set-upstream origin master  
 
 
 
